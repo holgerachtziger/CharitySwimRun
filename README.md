@@ -76,7 +76,7 @@ Das Userinferface ist in deutsch. (Aus historischen Gründen ist der Code auch i
     <li>ChartJs via Composer kommt nicht zusammengebaut. Daher manueller Download von <a href="https://www.jsdelivr.com/package/npm/chart.js?path=dist">jsdelivr</a> erforderlich. Anschließend verschieben des /dist Ordner in den vendoer/nnnick/chartjs</li>
 </ol>
 
-<h2>Docker-Compose</h2>
+<h3>Docker-Compose</h3>
 <ol>
     <li> <a href="https://docs.docker.com/engine/install/">Docker</a> installieren  </li>
     <li> <a href="https://docs.docker.com/compose/install/">Docker Compose</a> installieren  </li>
@@ -85,8 +85,8 @@ Das Userinferface ist in deutsch. (Aus historischen Gründen ist der Code auch i
 	 Die Container starten:
 	 - docker-compose up
     </li>
-    <li> <a href="localhost:8081">PHP myadmin aufrufen"</a></li>
-    <li> <a href="localhost:8080">Die Anwendung aufrufen"</a></li>
+    <li> <a href="http://localhost:8081">PHP myadmin aufrufen"</a></li>
+    <li> <a href="http://localhost:8080">Die Anwendung aufrufen"</a></li>
     <li> weiter bei Konfigurieren</li>
 </ol
 
