@@ -86,7 +86,7 @@ Das Userinferface ist in deutsch. (Aus historischen Gründen ist der Code auch i
 	 - docker-compose up
     </li>
     <li> <a href="http://localhost:8081">PHP myadmin aufrufen</a></li>
-    <li> <a href="http://localhost:8080">Die Anwendung aufrufen</a></li>
+    <li> <a href="http://localhost:8080//CharitySwimRun">Die Anwendung aufrufen</a></li>
     <li> weiter bei Konfigurieren</li>
 </ol
 
